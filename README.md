@@ -1,3 +1,7 @@
+# Amplify App
+
+Walkthrough of AWS Amplify service, following: _https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/_
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
